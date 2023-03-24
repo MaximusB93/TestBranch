@@ -7,6 +7,7 @@ namespace ConsoleApplication1
         public static void Main(string[] args)
         {
             Console.WriteLine("Привет мир");
+            Console.WriteLine("Ветка 2");
         }
     }
 }
